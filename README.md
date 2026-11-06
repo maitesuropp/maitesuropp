@@ -38,15 +38,8 @@ Sitio web de servicios informáticos desarrollado con React y Vite.
 - Asistencia mediante chat con IA.
 - Aplicación publicada en Vercel.
 
-🔗 [Ver código](https://github.com/maitesuropp/seico-proyect) · [Ver sitio web](https://seico-proyect.vercel.app/)
+🔗 [Ver código](https://github.com/maitesuropp/seico-proyect) · [Ver sitio web] (En mantenimiento)
 
-###  Notes API — Proyecto académico
-
-API REST desarrollada con TypeScript, Express y SQLite, con pruebas automatizadas.
-
- [Ver repositorio](https://github.com/maitesuropp/tp2-practica-programacionIV)
-
----
 
 ##  Contacto
 
