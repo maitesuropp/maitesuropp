@@ -56,7 +56,7 @@ Herramientas
 
 ###  SEICO — Servicio Integral de Computadoras
 
-Sitio web de servicios informáticos desarrollado con React y Vite.
+Sitio web de servicios informáticos
 
 - Interfaz web para presentar servicios.
 - Asistencia mediante chat con IA.
