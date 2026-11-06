@@ -10,7 +10,6 @@ Me interesa el desarrollo web, la programación
 y la creación de soluciones tecnológicas.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maitesuropp)
-[![SEICO](https://img.shields.io/badge/SEICO-635BFF?style=for-the-badge&logo=vercel&logoColor=white)](https://seico-proyect.vercel.app/)
 
 </div>
 
